@@ -10,6 +10,8 @@ class Question extends Model
 
     protected $fillables = [ 'statement', 'options', 'answer', 'level', 'category' ];
 
+    public $lastFiltered = [];
+
     public function getAllQuestions()
     {
         $result = [];
@@ -33,6 +35,7 @@ class Question extends Model
                 $hard[] = $one;
             }
         }
+
         return array(
           $easy[array_rand($easy, 1)],
           $medium[array_rand($medium, 1)],
