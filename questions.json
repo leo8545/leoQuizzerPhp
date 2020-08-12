@@ -1,0 +1,72 @@
+[
+  {
+    "statement": "Who is the founder of Pakistan?",
+    "options": [
+      "Allama Iqbal",
+      "Fatimah Jinnah",
+      "Sir Syed Ahmad",
+      "Muhammad Ali Jinnah"
+    ],
+    "answer": 3,
+    "level": "easy",
+    "category": "pakistan"
+  },
+  {
+    "statement": "Who is the national poet of Pakistan?",
+    "options": [
+      "Allama Iqbal",
+      "Fatimah Jinnah",
+      "Sir Syed Ahmad",
+      "Muhammad Ali Jinnah"
+    ],
+    "answer": 0,
+    "level": "easy",
+    "category": "pakistan"
+  },
+  {
+    "statement":
+    "Allama Muhammad Iqbal delivered his famous Allahabad Address in?",
+    "options": ["1929", "1930", "1931", "1932"],
+    "answer": 1,
+    "level": "medium",
+    "category": "pakistan"
+  },
+  {
+    "statement":
+    "What official name was given to Pakistan in 1956 constitution?",
+    "options": [
+      "United States of Pakistan",
+      "Republic of Pakistan",
+      "Islamic Pakistan",
+      "Islamic Republic of Pakistan"
+    ],
+    "answer": 3,
+    "level": "medium",
+    "category": "pakistan"
+  },
+  {
+    "statement": "When first constitution of Pakistan was enforced?",
+    "options": [
+      "8th June 1956",
+      "23rd March 1956",
+      "14th August 1956",
+      "25th December 1956"
+    ],
+    "answer": 1,
+    "level": "hard",
+    "category": "pakistan"
+  },
+  {
+    "statement":
+    "Who was the Prime Minister of Pakistan during enforcement of first constitution?",
+    "options": [
+      "Mohammad Ali Bogra",
+      "Khwaja Nazim Uddin",
+      "Choudhry Mohammad Ali",
+      "Ibrahim Ismail Chundrigar"
+    ],
+    "answer": 2,
+    "level": "hard",
+    "category": "pakistan"
+  }
+]
